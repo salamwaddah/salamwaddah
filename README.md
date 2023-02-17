@@ -1,14 +1,7 @@
-### Hi
-
----
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=salamwaddah&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamwaddah&layout=compact&theme=cobalt" />
 </p>
-
----
-
 
 <!--
 **salamwaddah/salamwaddah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
